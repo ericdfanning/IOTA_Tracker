@@ -32,4 +32,8 @@ To start the server on your local machine, type ```npm start``` into your termin
 
 Don't forget to keep this terminal window open. If you close it, it will stop the server and you will no longer get the emails.
 
+# Changing the email template
+
+If you are comfortable with HTML, go ahead and change up the email template to display the data however you'd like. Or add more data to it to be more informed!
+
 ENJOY!
